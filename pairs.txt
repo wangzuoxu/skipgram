@@ -1,0 +1,17 @@
+"bike lane, car park"	cars go into bike lane	remove the car park	
+"bike lane, car park"	cars are parked in bike lane	set restricted car parking area_set restricted car lane 	
+"bike lane, parked cars"	bike lane zig zags	set restricted car parking area	
+"bike lane, bus route"	cars go into bike lane	restrict the car driving direction	
+"bike lane, bus lane"	"bike lanes are disconnected, cyclists and pedestrians use same lane"	revamp the bike lane_introduce a wider can lane	
+"signage, bus lane"	"without clear signage, cyclists and drivers use same lane"	add clear signage	
+"traffic light, pedestain walk"	"without clear traffic light, "	add traffic light_educate drivers	
+"traffic light, intersaction"	"without clear traffic light, "	add traffic light	
+"bike lane,  park"	construction blocks bike lane	build new bike lanes	
+mountain bikes			
+"bike lane, hoops, camera"	bicycle theft	add hoops_add cameras near bike hoops	
+turn-around facilities	traffic congestion at major routes		
+painted bike refuge	without clear signage	add clear signage	
+"cyclists, pedestrians"	cyclists and pedestrians use same lane	"force cyclist dismount and walk their bikes,widen the bike lane"	
+slow mendering path of park	 cyclists and pedestrians use same lane		
+"bike lane, gutters and cobbles"	construction blocks bike lane	build new bike lanes	
+"bike lane, intersection"	traffic congestion at peak time	build new bike lanes	
